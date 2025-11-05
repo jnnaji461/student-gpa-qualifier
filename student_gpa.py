@@ -2,8 +2,7 @@
 # File: student_gpa_qualifier.py
 # Description: 
 # This application accepts student names and GPAs, then checks if each student
-# qualifies for the Dean's List or Honor Roll. It processes records until 'ZZZ'
-# is entered as the last name.
+# qualifies for the Dean's List or Honor Roll. 
 
 def main():
     print("Student GPA Qualification Checker")
@@ -47,3 +46,4 @@ def main():
 # Run the application
 if __name__ == "__main__":
     main()
+
